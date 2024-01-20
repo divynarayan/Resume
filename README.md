@@ -17,7 +17,7 @@
 
 
 
-## ExperiencE
+## Experience
 
 ### Android Development | Code Clause <span class="spacer"></span>Jun 2023 - Jul 2023
 
