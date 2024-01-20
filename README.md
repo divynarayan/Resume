@@ -1,28 +1,9 @@
-<!--
-Welcome to resume.lol !
-
-This is the template you can use to get started.
-
-Easily remove personal info by using a variable follow with a second value and "||":
-
-@NAME=Real Name||Hidden Name
-
-and change @REDACTED to be true
-
-@REDACTED=true
--->
-@REDACTED=false
-@NAME=Divy Narayan||Hidden
-@EMAIL=divynarayan265@gmail.com||fake@email.com
-@PHONE=+91 8299100072||(555) 123-5555
-@LOCATION=H-162,Beta-2, Greater Noida 201308 ||City, State ZIP
-@LINKEDIN=https://www.linkedin.com/in/divy-narayan ||linkedin.com
-@GITHUB=https://github.com/divynarayan||github.com
-
-# {NAME}
 
 
-{LOCATION} | {PHONE} | {EMAIL} 
+# {Divy Narayan}
+
+
+[(Greater Noida 201308)] | [{+91 8299100072}] | [{divynarayan265@gmail.com}] 
 
 [{LINKEDIN}](https://www.linkedin.com/in/divy-narayan) | [{GITHUB}](https://github.com/divynarayan)
 
