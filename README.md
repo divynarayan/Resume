@@ -70,7 +70,7 @@
 
 ## CERTIFICATES
 
--Core-Java by Cetpa Infotech, Summer Training on AI by Infosys, Android Development By Code Clause 
+- Core-Java by Cetpa Infotech, Summer Training on AI by Infosys, Android Development By Code Clause 
 
 <div className="vertical-spacer"></div>
 
